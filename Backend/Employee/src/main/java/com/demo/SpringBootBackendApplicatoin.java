@@ -26,9 +26,9 @@ public class SpringBootBackendApplicatoin implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 	
-//		Employee emp1 = new Employee();
-		
-//		emp.setId(0);
+//		Employee emp1= new Employee();
+//		
+//		emp1.setId(0);
 //		emp1.setFirstName("Vyenktesh1");
 //		emp1.setLastName("Mohite1");
 //		emp1.setEmailId("Venkey1123@gmail.com");
@@ -48,12 +48,12 @@ public class SpringBootBackendApplicatoin implements CommandLineRunner {
 //		e1.setEmailId("Ramesh@gmail.com");
 //		employeeRepository.save(e1);
 		
-		Employee e2=new Employee();
-		e2.setId(3);
-		e2.setFirstName("RadhaKrishna");
-		e2.setLastName("HariWansh");
-		e2.setEmailId("RadhaKrishna@gmail.com");
-		employeeRepository.save(e2);
+//		Employee e2=new Employee();
+//		e2.setId(3);
+//		e2.setFirstName("RadhaKrishna");
+//		e2.setLastName("HariWansh");
+//		e2.setEmailId("RadhaKrishna@gmail.com");
+//		employeeRepository.save(e2);
 		
 	} 
 	
